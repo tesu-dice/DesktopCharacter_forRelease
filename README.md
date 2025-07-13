@@ -1,0 +1,2 @@
+# DesktopCharacter_forRelease
+DesktopCharacterのリリース情報の管理用
